@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "go-zeit",
+  "builds": [
+    {
+      "src": "*.go",
+      "use": "@now/go"
+    }
+  ]
+}
